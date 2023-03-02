@@ -11,10 +11,12 @@
 ***No Certification:***
 - [Codédex](www.codedex.io) (Only Python and HTML at the moment)
 - [Fazt Web](www.faztweb.com)
+- [@Mouredev in YouTube](https://www.youtube.com/@mouredev)
 
 ***Free and Paid Courses (Only last with Cert):***
 - [codecademy](www.codecademy.com)
 
+<br>
 
 ### `Concept Roadmaps`
 ***Software Engineer:***
@@ -26,6 +28,7 @@
 ***Python:***
 - [Python Learning Paths](https://realpython.com/learning-paths/)
 
+<br>
 
 ### `Books and Documentation`
 ***General Programming:***
@@ -37,6 +40,7 @@
 - [GeeksForGeeks](www.geeksforgeeks.org)
 - [Programming Books for Professionals](https://books.goalkicker.com)
 - [Freely Available Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Short Code Snippets](https://www.30secondsofcode.org)
 
 ***JavaScript:***
 - [Eloquent JavaScript by Marijn Haverbeke](eloquentjavascript.net)
@@ -58,6 +62,7 @@
 ***Flutter:***
 - [Flutter Official WebPage](flutter.dev)
 
+<br>
 
 ### `Cheatsheets`
 ***Several Languages:***
@@ -65,11 +70,14 @@
 - [OverAPI](https://overapi.com)
 - [Rico's Cheatsheets](https://devhints.io)
 
+<br>
 
 ### `Projects`
 ***Several Languages:***
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Computer Languages](clcoding.com)
+- [Application Ideas for Projects](https://github.com/florinpop17/app-ideas)
+- [Recreate Technologies from Scratch](https://github.com/codecrafters-io/build-your-own-x)
 
 ***JavaScript:***
 - [30 Days of JavaScript](javascript30.com)
@@ -78,9 +86,27 @@
 - [50 Terminal Project Ideas](https://www.codedex.io/projects/50-terminal-project-ideas-using-python) (only ideas)
 - [365 Days of Python](https://www.youtube.com/playlist?list=PLeLGx0BaYD6Zr_3ReRhyZHLoO35uEVmcJ)
 
+***Frontend:***
+- [Frontend Practice](https://www.frontendpractice.com/projects)
+- [Codewell](https://www.codewell.cc)
+
+<br>
 
 ### `Challenges`
 ***Several Languages:***
 - [Hacker Rank](hackerrank.com) (Also Certification and Interview Preparation)
+- [Leet Code](https://leetcode.com/explore/) (Similar to HackerRank but without the Certs)
 - [Coding Game](codingame.com)
 - [Code Combat](https://codecombat.com)
+- [Coderbyte](https://coderbyte.com/developers)
+- [Advent of Code](https://adventofcode.com)
+- [Retos de Programación](https://retosdeprogramacion.com)
+
+***JavaScript:***
+- [JavaScript Multiple Choice Questions](https://github.com/lydiahallie/javascript-questions)
+- [Warrior JS](https://warriorjs.com)
+
+***Frontend:***
+- [Frontend Mentor](https://www.frontendmentor.io)
+- [CSS Battle](https://cssbattle.dev)
+- [CodePen Challenges](https://codepen.io/challenges)
