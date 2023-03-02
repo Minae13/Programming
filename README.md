@@ -3,16 +3,16 @@
 
 ### Courses
 
-Free Certification:
+Free Certification
 :   [Solo Learn](www.sololearn.com)
 [Programiz](www.programiz.com)
 [freeCodeCamp](www.freecodecamp.org)
 
-No Certification:
+No Certification
 :   [Codédex](www.codedex.io) (Only Python and HTML at the moment)
 [Fazt Web](www.faztweb.com)
 
-Free and Paid Courses (Only last with Cert):
+Free and Paid Courses (Only last with Cert)
 :   [codecademy](www.codecademy.com)
 
 
