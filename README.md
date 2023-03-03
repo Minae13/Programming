@@ -12,6 +12,8 @@
 - [Codédex](www.codedex.io) (Only Python and HTML at the moment)
 - [Fazt Web](www.faztweb.com)
 - [@Mouredev in YouTube](https://www.youtube.com/@mouredev)
+- [Dash by General Assembly](https://dash.generalassemb.ly) (Project-based Learning)
+- [Khan Academy](https://www.khanacademy.org/computing)
 
 ***Free and Paid Courses (Only last with Cert):***
 - [codecademy](www.codecademy.com)
@@ -89,6 +91,7 @@
 ***Frontend:***
 - [Frontend Practice](https://www.frontendpractice.com/projects)
 - [Codewell](https://www.codewell.cc)
+- [The Odin Project](https://www.theodinproject.com)
 
 <br>
 
