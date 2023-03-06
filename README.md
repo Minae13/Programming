@@ -4,19 +4,19 @@
 ### `Courses`
 
 ***Free Certification:***
-- [Solo Learn](www.sololearn.com)
-- [Programiz](www.programiz.com)
-- [freeCodeCamp](www.freecodecamp.org) (Project-based Learning)
+- [Solo Learn](https://www.sololearn.com)
+- [Programiz](https://www.programiz.com)
+- [freeCodeCamp](https://www.freecodecamp.org) (Project-based Learning)
 
 ***No Certification:***
-- [Codédex](www.codedex.io) (Only Python and HTML at the moment)
-- [Fazt Web](www.faztweb.com)
+- [Codédex](https://www.codedex.io) (Only Python and HTML at the moment)
+- [Fazt Web](https://www.faztweb.com)
 - [@Mouredev in YouTube](https://www.youtube.com/@mouredev)
 - [Dash by General Assembly](https://dash.generalassemb.ly) (Project-based Learning)
 - [Khan Academy](https://www.khanacademy.org/computing)
 
 ***Free and Paid Courses (Only last with Cert):***
-- [codecademy](www.codecademy.com)
+- [codecademy](https://www.codecademy.com)
 
 <br>
 
@@ -38,15 +38,15 @@
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org)
 
 ***Several Languages:***
-- [W3Schools](www.w3schools.com) (Has paid Certifications)
-- [GeeksForGeeks](www.geeksforgeeks.org)
+- [W3Schools](https://www.w3schools.com) (Has paid Certifications)
+- [GeeksForGeeks](https://www.geeksforgeeks.org)
 - [Programming Books for Professionals](https://books.goalkicker.com)
 - [Freely Available Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Short Code Snippets](https://www.30secondsofcode.org)
 
 ***JavaScript:***
 - [Eloquent JavaScript by Marijn Haverbeke](www.eloquentjavascript.net)
-- [The Modern JavaScript Tutorial](www.javascript.info)
+- [The Modern JavaScript Tutorial](https://www.javascript.info)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
     - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
@@ -55,14 +55,14 @@
 - [Learn to program by Chris Pine](https://pine.fm/LearnToProgram/)
 
 ***C++:***
-- [C++](www.cplusplus.com)
-- [Learn C++](www.learncpp.com)
+- [C++](https://www.cplusplus.com)
+- [Learn C++](https://www.learncpp.com)
 
 ***Python:***
-- [Real Python](www.realpython.com)
+- [Real Python](https://www.realpython.com)
 
 ***Flutter:***
-- [Flutter Official WebPage](www.flutter.dev)
+- [Flutter Official WebPage](https://www.flutter.dev)
 
 <br>
 
@@ -77,12 +77,12 @@
 ### `Projects`
 ***Several Languages:***
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
-- [Computer Languages](www.clcoding.com)
+- [Computer Languages](https://www.clcoding.com)
 - [Application Ideas for Projects](https://github.com/florinpop17/app-ideas)
 - [Recreate Technologies from Scratch](https://github.com/codecrafters-io/build-your-own-x)
 
 ***JavaScript:***
-- [30 Days of JavaScript](www.javascript30.com)
+- [30 Days of JavaScript](https://www.javascript30.com)
 
 ***Python:***
 - [50 Terminal Project Ideas](https://www.codedex.io/projects/50-terminal-project-ideas-using-python) (only ideas)
@@ -97,9 +97,9 @@
 
 ### `Challenges`
 ***Several Languages:***
-- [Hacker Rank](www.hackerrank.com) (Also Certification and Interview Preparation)
+- [Hacker Rank](https://www.hackerrank.com) (Also Certification and Interview Preparation)
 - [Leet Code](https://leetcode.com/explore/) (Similar to HackerRank but without the Certs)
-- [Coding Game](www.codingame.com)
+- [Coding Game](https://www.codingame.com)
 - [Code Combat](https://codecombat.com)
 - [Coderbyte](https://coderbyte.com/developers)
 - [Advent of Code](https://adventofcode.com)
