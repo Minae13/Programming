@@ -45,8 +45,8 @@
 - [Short Code Snippets](https://www.30secondsofcode.org)
 
 ***JavaScript:***
-- [Eloquent JavaScript by Marijn Haverbeke](eloquentjavascript.net)
-- [The Modern JavaScript Tutorial](javascript.info)
+- [Eloquent JavaScript by Marijn Haverbeke](www.eloquentjavascript.net)
+- [The Modern JavaScript Tutorial](www.javascript.info)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
     - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
@@ -55,14 +55,14 @@
 - [Learn to program by Chris Pine](https://pine.fm/LearnToProgram/)
 
 ***C++:***
-- [C++](cplusplus.com)
-- [Learn C++](learncpp.com)
+- [C++](www.cplusplus.com)
+- [Learn C++](www.learncpp.com)
 
 ***Python:***
-- [Real Python](realpython.com)
+- [Real Python](www.realpython.com)
 
 ***Flutter:***
-- [Flutter Official WebPage](flutter.dev)
+- [Flutter Official WebPage](www.flutter.dev)
 
 <br>
 
@@ -77,12 +77,12 @@
 ### `Projects`
 ***Several Languages:***
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
-- [Computer Languages](clcoding.com)
+- [Computer Languages](www.clcoding.com)
 - [Application Ideas for Projects](https://github.com/florinpop17/app-ideas)
 - [Recreate Technologies from Scratch](https://github.com/codecrafters-io/build-your-own-x)
 
 ***JavaScript:***
-- [30 Days of JavaScript](javascript30.com)
+- [30 Days of JavaScript](www.javascript30.com)
 
 ***Python:***
 - [50 Terminal Project Ideas](https://www.codedex.io/projects/50-terminal-project-ideas-using-python) (only ideas)
@@ -97,9 +97,9 @@
 
 ### `Challenges`
 ***Several Languages:***
-- [Hacker Rank](hackerrank.com) (Also Certification and Interview Preparation)
+- [Hacker Rank](www.hackerrank.com) (Also Certification and Interview Preparation)
 - [Leet Code](https://leetcode.com/explore/) (Similar to HackerRank but without the Certs)
-- [Coding Game](codingame.com)
+- [Coding Game](www.codingame.com)
 - [Code Combat](https://codecombat.com)
 - [Coderbyte](https://coderbyte.com/developers)
 - [Advent of Code](https://adventofcode.com)
