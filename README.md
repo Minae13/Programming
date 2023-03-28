@@ -1,6 +1,21 @@
 # Links of Interest
 ---
 
+<details>
+<summary>Table of Contents</summary>
+
+1. [Courses](#courses)
+1. [Concept Roadmaps](#concept-roadmaps)
+1. [Books & Docs](#books-and-documentation)
+1. [Cheatsheets](#cheatsheets)
+1. [Projects](#projects)
+1. [Challenges](#challenges)
+1. [Resources](#resources)
+
+</details>
+
+
+
 ### `Courses`
 
 ***Free Certification:***
@@ -17,6 +32,9 @@
 
 ***Free and Paid Courses (Only last with Cert):***
 - [codecademy](https://www.codecademy.com)
+
+***Free:***
+- [Links to Several Courses](https://laprovittera.com/certificaciones-y-cursos-gratuitos-en-ciberseguridad/#Programacion)
 
 <br>
 
@@ -60,9 +78,13 @@
 
 ***Python:***
 - [Real Python](https://www.realpython.com)
+    - [Tkinter Tutorial](https://www.pythontutorial.net/tkinter/)
 
 ***Flutter:***
 - [Flutter Official WebPage](https://www.flutter.dev)
+
+***React:***
+- [React Official WebPage](https://react.dev)
 
 <br>
 
@@ -114,3 +136,12 @@
 - [Frontend Mentor](https://www.frontendmentor.io)
 - [CSS Battle](https://cssbattle.dev)
 - [CodePen Challenges](https://codepen.io/challenges)
+
+<br>
+
+### `Resources`
+***General Programming:***
+- [Resources to help people learn to code](https://github.com/collections/learn-to-code)
+
+***Python:***
+- [Python Automation Scripts](https://www.freecodecamp.org/news/python-automation-scripts/)
