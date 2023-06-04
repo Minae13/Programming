@@ -12,6 +12,7 @@
 1. [Challenges](#challenges)
 1. [Resources](#resources)
 1. [VSCode Extensions](#vscode-extensions)
+1. [Social Media Channels](#social-media-channels)
 
 </details>
 
