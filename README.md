@@ -11,6 +11,7 @@
 1. [Projects](#projects)
 1. [Challenges](#challenges)
 1. [Resources](#resources)
+1. [VSCode Extensions](#vscode-extensions)
 
 </details>
 
@@ -22,6 +23,7 @@
 - [Solo Learn](https://www.sololearn.com)
 - [Programiz](https://www.programiz.com)
 - [freeCodeCamp](https://www.freecodecamp.org) (Project-based Learning)
+- [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 
 ***No Certification:***
 - [Codédex](https://www.codedex.io) (Only Python and HTML at the moment)
@@ -35,6 +37,9 @@
 
 ***Free:***
 - [Links to Several Courses](https://laprovittera.com/certificaciones-y-cursos-gratuitos-en-ciberseguridad/#Programacion)
+
+***Javascript:***
+- [Aprende Javascript](https://www.aprendejavascript.dev)
 
 <br>
 
@@ -61,6 +66,7 @@
 - [Programming Books for Professionals](https://books.goalkicker.com)
 - [Freely Available Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Short Code Snippets](https://www.30secondsofcode.org)
+- [Dev Docs Documentation](https://devdocs.io)
 
 ***JavaScript:***
 - [Eloquent JavaScript by Marijn Haverbeke](www.eloquentjavascript.net)
@@ -85,6 +91,9 @@
 
 ***React:***
 - [React Official WebPage](https://react.dev)
+
+***Workflow Automation:***
+- [n8n](https://docs.n8n.io/courses/level-one/)
 
 <br>
 
@@ -142,6 +151,40 @@
 ### `Resources`
 ***General Programming:***
 - [Resources to help people learn to code](https://github.com/collections/learn-to-code)
+- [Programming Logic and Interview Prep](https://codesignal.com/developers/)
 
 ***Python:***
 - [Python Automation Scripts](https://www.freecodecamp.org/news/python-automation-scripts/)
+
+### `VSCode Extensions`
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Codium AI](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
+- [Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+
+### `Social Media Channels`
+***Instagram:***
+- [Midu Dev](https://www.instagram.com/midu.dev/) {
+    - Spanish
+    - Best Practices
+    - Courses and Certifications
+    - Web development
+    - VsCode and more...
+}
+
+- [For Good Code](https://www.instagram.com/forgoodcode/) {
+    - English
+    - Tips, hacks and tricks
+    - Courses and Certifications
+    - Social Media Channel Recomendations
+}
+
+- [Moure Dev](https://www.instagram.com/mouredev/) {
+    - Spanish
+    - Courses and Certifications
+    - Full Stack Development
+}
+
+***YouTube:***
+- [Moure Dev](https://www.youtube.com/@mouredev)
+- [MiduDev](www.youtube.com/@midudev)
+- [The Coding Train](https://www.youtube.com/@TheCodingTrain)
